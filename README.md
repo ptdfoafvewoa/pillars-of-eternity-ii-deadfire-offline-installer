@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Patch 5.0 - Turn-based mode and The Ultimate challenge out now! Pursue a rogue god over land and sea in the sequel to the multi-award-winning RPG Pillars of Eternity. Captain your ship on a dangerous voyage of discovery across the vast unexplored archipelago region of the Deadfire.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min:  / Rec: Windows 10 64-bit or newer | OS X 10.12.6 Sierra 64-bit (or newer) |
+| **Processor** | Min: Intel Core i3-2100T @ 2.50 GHz / AMD Phenom II X3 B73 / Rec: Intel Core i5-2400 @ 3.10 GHz / AMD Phenom II X6 1100T | Intel Core i5-4570S @ 2.9GHz |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: DirectX 11 Compatible / Rec: NVIDIA GeForce GTX 960 | NVIDIA GeForce GT750M |
+| **Storage** | 45 GB available space | 45 GB available space |
+| **OS *** | Windows Vista 64-bit or newer | Windows Vista 64-bit or newer |
+| **Sound Card** | DirectX Compatible Sound Card | DirectX Compatible Sound Card |
 
 ---
 
